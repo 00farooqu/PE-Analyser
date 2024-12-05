@@ -37,7 +37,7 @@ A Python script to analyse Portable Executable (PE) files, calculate section ent
 Run the script with the path to the PE file as an argument:
 
 ```bash
-python pe_analyzer.py <file_path>
+python pe_analyser.py <file_path>
 ```
 
 ## Output
